@@ -1,5 +1,6 @@
-# ODSC West 2019
-Missing data in supervised ML
+# Missing data in supervised ML
+
+ODSC West 2019
 
 See [this blogpost](https://opendatascience.com/missing-data-in-supervised-machine-learning/) for more details on the presentation.
 
